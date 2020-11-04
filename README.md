@@ -1,6 +1,6 @@
 # Emotions-Mineration-M.L
 
-This is a project about achine Learning using NLTK (Natural Language Tool Kit) that mine your emotion in one sentence.
+This is a project about Machine Learning using NLTK (Natural Language Tool Kit) that mine your emotion in one sentence.
 
 ## Image
 ![mineração](https://user-images.githubusercontent.com/52220244/97980921-48eeef00-1db0-11eb-995d-121a649b7639.JPG)
@@ -12,7 +12,7 @@ This is a project about achine Learning using NLTK (Natural Language Tool Kit) t
 # Create folder for store the files, like 'EmotionsMineration'
 
 # Clone the project
-git clone https://github.com/BieAnimaton/Image-Uploader-NodeJs-MongoDB
+git clone https://github.com/BieAnimaton/Emotions-Mineration-M.L
 
 # Install the dependencies
 pip install nltk or install from IDE (PyCharm for example)
